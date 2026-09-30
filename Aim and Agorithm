@@ -1,1 +1,21 @@
 AIM: Write a program to implement various string operation
+
+### Algorithm: String Operations in Python
+
+1. **Start**
+2. Take a string input from the user and store it in `s`.
+3. Initialize the string `b` with the value `"wert"`.
+4. Display the original string `s`.
+5. Find and display the length of `s` using `len()`.
+6. Convert `s` into uppercase using `upper()` and display it.
+7. Convert `s` into lowercase using `lower()` and display it.
+8. Access and display the character at index `7` of `s`.
+9. Check whether the character `"p"` is present in `"Python"` using the `in` operator and display the result.
+10. Extract and display the substring of `s` starting from index `6` using slicing.
+11. Replace the contents of `s` with the string `b` using `replace()` and display the result.
+12. Concatenate `s` with `"lalala"` and display the resulting string.
+13. Initialize the string `c` with `" Swan "`.
+14. Remove the leading and trailing spaces from `c` using `strip()` and display the result.
+15. **Stop**
+
+Tiny Python ritual complete. Humanity survives another string manipulation practical.
