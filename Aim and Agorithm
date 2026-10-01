@@ -1,6 +1,6 @@
 AIM: Write a program to implement various string operation
 
-### Algorithm: String Operations in Python
+Algorithm: String Operations in Python
 
 1.Start
 2. Take a string input from the user and store it in `s`.
