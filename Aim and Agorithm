@@ -2,7 +2,7 @@ AIM: Write a program to implement various string operation
 
 ### Algorithm: String Operations in Python
 
-1. **Start**
+1.Start
 2. Take a string input from the user and store it in `s`.
 3. Initialize the string `b` with the value `"wert"`.
 4. Display the original string `s`.
@@ -16,6 +16,6 @@ AIM: Write a program to implement various string operation
 12. Concatenate `s` with `"lalala"` and display the resulting string.
 13. Initialize the string `c` with `" Swan "`.
 14. Remove the leading and trailing spaces from `c` using `strip()` and display the result.
-15. **Stop**
+15. Stop
 
-Tiny Python ritual complete. Humanity survives another string manipulation practical.
+
